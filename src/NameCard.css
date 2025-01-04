@@ -1,0 +1,15 @@
+.NameCard{
+    text-align: center;
+}
+
+.allInfo{
+    display: flex;
+    display: inline-block;
+    justify-items: left;
+}
+
+.image{
+    height: 120px;
+    width: 150px;
+    object-fit: cover;
+}
